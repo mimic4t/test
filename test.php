@@ -2,6 +2,8 @@
 <html>
 <body>
   ciao
-<?php header('location:file:///etc/passwd'); ?>
+<?php 
+header('location:file:///etc/passwd');
+?>
 </body>
 </html>
